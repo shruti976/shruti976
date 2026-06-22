@@ -118,7 +118,7 @@ Real-time attendance and monitoring platform.
 # 📚 Publications
 
 ### Imposter Injection: Learning to Select Features in Reinforcement Learning
-[Access here](10.1109/KSE63888.2024.11063527)
+[Access here](https://doi.org/10.1109/KSE63888.2024.1106352)
 **KSE 2024** 
 
 Entropy-driven feature selection approach for adversarial robustness in reinforcement learning environments.
