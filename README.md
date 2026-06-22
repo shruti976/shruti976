@@ -153,12 +153,6 @@ Segmentation of brain cells in fluorescence microscopy using deep learning metho
 
 Real-time pose estimation and feedback system for guided virtual yoga instruction.
 
-### LLM-Guided Safe Reinforcement Learning
-**In Preparation (JAIR Target)**
-
-Investigation of natural-language safety guidance for reinforcement learning agents.
-
-
 ---
 
 # ⚙️ Technical Skills
