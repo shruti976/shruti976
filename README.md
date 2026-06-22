@@ -70,7 +70,7 @@ Public research framework where a Large Language Model provides natural-language
 - LunarLander-v2 and CarRacing-v2
 - JAIR paper in preparation
 
-🔗 🔗 **Repository:** [View on GitHub](https://github.com/shruti976/llm-guided-safe-rl)
+ 🔗 **Repository:** [View on GitHub](https://github.com/shruti976/llm-guided-safe-rl)
 
 ### SiteCortex: Construction Safety Vision-Language System
 Glass-box Vision-Language framework for automated construction safety analysis.
@@ -81,7 +81,7 @@ Glass-box Vision-Language framework for automated construction safety analysis.
 - 203-image benchmark dataset
 - 65.3% spatial grounding coverage
 
-🔗 🔗 **Repository:** [View on GitHub](https://github.com/shruti976/sitecortex)
+ 🔗 **Repository:** [View on GitHub](https://github.com/shruti976/sitecortex)
 
 ### Adversarial Resilience in RL Systems
 Entropy-driven feature selection framework for robust reinforcement learning.
@@ -91,7 +91,7 @@ Entropy-driven feature selection framework for robust reinforcement learning.
 - Published at KSE 2024
 - Outperformed KL Divergence and Joint Entropy baselines
 
-🔗 🔗 **Repository:** [View on GitHub](https://github.com/shruti976/adversarial-rl-resilience)
+ 🔗 **Repository:** [View on GitHub](https://github.com/shruti976/adversarial-rl-resilience)
 
 ### Personalized Movie Recommender System
 Collaborative filtering recommendation engine built using MovieLens.
