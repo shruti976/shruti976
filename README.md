@@ -29,27 +29,6 @@ I am a Computer Science PhD candidate at the University of Dayton, with research
 
 ---
 
-# 🧰 Tooling & Research Systems
-
-- Safe RL Benchmark Suite
-- LLM-Guided Decision Systems
-- SiteCortex Vision-Language Platform
-- Adversarial RL Evaluation Framework
-- Facial Recognition Attendance Platform
-- Recommendation Systems Research
-- Experiment Reproducibility Pipelines
-- Human-in-the-Loop AI Systems
-
----
-
-# 📈 Contributions
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shruti976&bg_color=00000000&color=2563eb&line=2563eb&point=2563eb&area_color=2563eb&area=true&hide_border=true" />
-</p>
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
